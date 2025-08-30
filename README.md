@@ -29,6 +29,12 @@ JavaScript, PostgreSQL & ....<br>
 
 <br>
 
+## 🏆 Trophies
+
+<img src="https://github-profile-trophy.vercel.app?username=arvinmaroufi&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+
+<br>
+
 ## 🌐 Socials
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arvinmaroufi.ir)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arvinmaroufi_ir)
@@ -95,6 +101,8 @@ JavaScript, PostgreSQL & ....<br>
 <br>
 
 ## 📊 GitHub Stats
-![](https://github-contributor-stats.vercel.app/api?username=arvinmaroufi&limit=5&theme=holi&combine_all_yearly_contributions=true)<br/>
-![](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
+
+![](https://github-contributor-stats.vercel.app/api?username=arvinmaroufi&limit=5&theme=holi&combine_all_yearly_contributions=true)<br>
+![](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=true)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
