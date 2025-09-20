@@ -91,5 +91,6 @@ JavaScript, PostgreSQL & ....<br>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=arvinmaroufi&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
 
 ![](https://github-contributor-stats.vercel.app/api?username=arvinmaroufi&limit=5&theme=holi&combine_all_yearly_contributions=true)<br>
+[![](https://streak-stats.demolab.com?user=arvinmaroufi&background=030314&border=ffffff&ring=5090CB&fire=5090CB&currStreakNum=D6E7FF&sideNums=D6E7FF&currStreakLabel=5090CB&sideLabels=5090CB&dates=ffffff)](https://git.io/streak-stats)<br>
 ![](https://github-readme-stats.vercel.app/api?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=arvinmaroufi&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
