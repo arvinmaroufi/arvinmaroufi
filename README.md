@@ -2,6 +2,14 @@
   <img src="./banner.jpg" alt="banner" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=arvinmaroufi&label=PROFILE+VIEWS&color=5090CB&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/arvinmaroufi?label=Followers&style=for-the-badge&color=5090CB" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/arvinmaroufi?label=Total%20Stars&style=for-the-badge&color=5090CB" alt="GitHub Stars" />
+</div>
+
 
 ## 💫 About Me
 👨‍💻 Senior Back-End Engineer (Python/Django) | Instructor & Mentor<br>
@@ -26,7 +34,6 @@ JavaScript, PostgreSQL & ....<br>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/arvinmaroufi.ir)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/arvinmaroufi_ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/arvinmaroufi)
-[![Codingo-Prime](https://img.shields.io/badge/Website-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://codingo-prime.ir/)
 
 <br>
 
@@ -41,16 +48,24 @@ JavaScript, PostgreSQL & ....<br>
 ### 🚀 Frameworks & Libraries
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/django%20rest%20framework-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Celery](https://img.shields.io/badge/celery-%2337814A.svg?style=for-the-badge&logo=celery&logoColor=white)
 
 ### 💾 Databases
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ### ⚒️ Development Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)
+![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
 <br>
 
@@ -77,6 +92,20 @@ JavaScript, PostgreSQL & ....<br>
     </tr>
   </tbody>
 </table>
+
+<br>
+
+## 🗣️ Languages
+- **Kurdish**: Native
+- **Persian**: Conversational
+- **English**: B1 (Improving)
+- **German**: A2 (Improving)
+
+<br>
+
+## 📈 Weekly Development Stats
+<!-- WakaTime Stats -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=arvinmaroufi&theme=holi&layout=compact&range=last_7_days" height="180" alt="WakaTime Stats" />
 
 <br>
 
